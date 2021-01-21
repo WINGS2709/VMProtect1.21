@@ -11,8 +11,10 @@
 第七章内容：万用门介绍   
 第八章内容：Vmp壳的实现或则去混淆插件（不打算写了感觉太麻烦了）      
 
-# 工具：                  
-IDA7.5   
+# 资料介绍：                  
+HelloASM.exe ：测试demo  
+vmprotect.exe：脱壳后的主进程   
+vmprotect.idb：IDA文件  
 
 # 操作平台：
 Win7 32位  
