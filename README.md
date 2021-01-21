@@ -28,5 +28,5 @@ Win7 32位
 # 参考文献： 
 1、谈谈vmp的还原(1)   
 https://bbs.pediy.com/thread-225278.htm   
-2、带有代码分析器的虚拟机保护
+2、带有代码分析器的虚拟机保护  
 https://bbs.pediy.com/thread-186151.htm
